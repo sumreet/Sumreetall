@@ -15,7 +15,22 @@
 
 #Type function
 
-X= "sumreet"
-y= 10
-print(type(X))
-print(type(y))
+#X= "sumreet"
+#y= 10
+#z= 14.5
+#print(type(X))
+#print(type(y))
+#print(type(z))
+
+#mulitple type
+
+#x, y, z= 10,15,30.2
+#print(type (x))
+#print(type (y))
+#print(type (z))
+
+#x=y=z="pink"
+#print(x)
+#print(y)
+
+
